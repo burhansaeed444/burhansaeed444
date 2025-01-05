@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me :insta burhan_saeed444
 - 😄 Pronouns: Burhan
-- ⚡ Fun fact: Tommorrow 7/1/2025 is my final exam.
+- ⚡ Fun fact: Tomorrow 7/1/2025 is my final exam.
 
 <!---
 burhansaeed444/burhansaeed444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
